@@ -4,10 +4,10 @@ This is a simple Tic-tac-toe game implemented in React Native using TypeScript. 
 
 ```
 
-##
-![Screen 1](./screenshots/1.png)
-![Screen 2](./screenshots/2.png)
-![Screen 3](./screenshots/3.png)
+## Screen Shots
+![Screen 1](https://raw.github.com/parthpatel1470/tic-tak-toe-game/master/screenshots/1.png?raw=T)
+![Screen 2](https://raw.github.com/parthpatel1470/tic-tak-toe-game/master/screenshots/2.png?raw=T)
+![Screen 3](https://raw.github.com/parthpatel1470/tic-tak-toe-game/master/screenshots/3.png?raw=T)
 
 ## Dependencies
 
